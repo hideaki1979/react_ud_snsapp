@@ -1,4 +1,4 @@
-# 【Udemu講座】簡易SNSアプリ（DBはsupabaseを使用）
+# 【Udemy講座】簡易SNSアプリ（DBはsupabaseを使用）
 
 ## 概要
 ※本アプリはUdemy講座で作成したアプリです。
